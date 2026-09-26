@@ -1,0 +1,8 @@
+/* Custom Stylesheet for Aurelia Grand */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Optional smooth transition classes or scroll tweaks can go here */
